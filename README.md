@@ -6,7 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-@the_infinity_conqueror-black?style=flat-square&labelColor=000000&logo=Instagram&link=https://instagram.com/the_infinity_conqueror)](https://instagram.com/the_infinity_conqueror)
 
 
-[![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikpatel0170&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/OmDalwadi/github-readme-stats)
+[![Om's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OmDalwadi&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/OmDalwadi/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OmDalwadi&layout=compact&theme=calm)](https://github.com/OmDalwadi/github-readme-stats)
 
